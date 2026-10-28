@@ -1,2 +1,3 @@
-# University-Management-System
-To design and implement a simple University Management System using a C++ class with  encapsulation, constructors, and destructors, and to demonstrate the object lifecycle.
+# Sem_1_AI_Records_
+Containing the lab practicals done in the first semester for Exploration in AI using VS Code.
+Language used here is Python.
